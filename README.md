@@ -55,16 +55,21 @@
 
 ## 📌 Featured Projects
 
+
+
+### 💼 [My Portfolio](https://github.com/BHARDWAJ-0001/my-portfolio)
+> Personal data analytics portfolio showcasing projects, skills, and dashboards
+> - 🔧 Tech: HTML, CSS, JavaScript
+> - 📈 Live at: [bhardwaj-0001.github.io/my-portfolio](https://bhardwaj-0001.github.io/my-portfolio)
+
+
 ### 📖 [Hybrid Book Recommender System](https://github.com/BHARDWAJ-0001/hybridbook-recommender-system)
 > Built a hybrid recommendation engine combining **Collaborative Filtering** + **Content-Based Filtering**
 > - 🔧 Tech: Python, Scikit-learn, Pandas, Cosine Similarity
 > - 📊 Combines user behavior + book metadata for smarter recommendations
 > - 🚀 End-to-end ML pipeline with evaluation metrics
 
-### 💼 [My Portfolio](https://github.com/BHARDWAJ-0001/my-portfolio)
-> Personal data analytics portfolio showcasing projects, skills, and dashboards
-> - 🔧 Tech: HTML, CSS, JavaScript
-> - 📈 Live at: [bhardwaj-0001.github.io/my-portfolio](https://bhardwaj-0001.github.io/my-portfolio)
+
 
 ### 🖥️ [Desktop Tutorial](https://github.com/BHARDWAJ-0001/desktop-tutorial)
 > Hands-on tutorial repository for desktop application development concepts
