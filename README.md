@@ -89,9 +89,9 @@
 
 I'm always open to collaborating on **Data Analytics**, **Machine Learning**, or **Open Source** projects.
 
-📧 **Email:** YOUR-bhardwajujjawal07@gmail.com
+📧 **Email:** bhardwajujjawal07@gmail.com
 🌐 **Portfolio:** https://bhardwaj-0001.github.io/my-portfolio
-💼 **LinkedIn:** [linkedin.com/in/ujjawal-bhardwaj-in]
+💼 **LinkedIn:** [(https://www.linkedin.com/in/ujjawal-bhardwaj-in/)]
 
 ---
 
