@@ -3,9 +3,9 @@
 # 👋 Hi, I'm Ujjawal Bhardwaj
 ### 📊 Data Analyst | Python • SQL • Power BI • Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([](https://www.linkedin.com/in/ujjawal-bhardwaj-in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawal-bhardwaj-in)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhardwaj-0001.github.io/my-portfolio)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-bhardwajujjawal07@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajujjawal07@gmail.com)
 
 </div>
 
