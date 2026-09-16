@@ -1,68 +1,127 @@
-# 👋 Hi, I’m Ujjawal Bhardwaj
+<div align="center">
 
-### 💻 Software Developer | Backend • Full Stack • VR Development
+# 👋 Hi, I'm **Ujjawal Bhardwaj**
 
-<p align="left">
+### `Software Developer` · `Backend Engineering` · `AI & Automation` · `VR Development`
+
+<p>
   <a href="https://linkedin.com/in/ujjawalbhardwaj-in">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://bhardwaj-0001.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:bhardwajujjawal07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/BHARDWAJ-0001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BHARDWAJ-0001&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=BHARDWAJ-0001&label=PROFILE%20VIEWS&style=flat-square" />
+
+<br/>
+
+> **I build practical software systems across backend engineering, AI-powered automation, and immersive VR experiences.**
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖
+
+**AI & Automation**
+
+Agent systems, intelligent workflows & desktop automation
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend**
+
+APIs, databases & application architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### 🥽
+
+**VR Development**
+
+Interactive simulations for Meta Quest
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**Full Stack**
+
+End-to-end web applications
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```text id="header-terminal"
+Currently building → AERIS · Personal AI Operating System
+Currently working → VR Training & Simulation Applications
+Based in           → India
+```
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-```text id="about"
-Software Developer with an MCA background and a strong foundation in
-backend development, RESTful APIs, database-driven applications,
-machine learning, and interactive software development.
+I'm a Software Developer with an MCA background and experience building backend systems, RESTful APIs, database-driven applications, AI-powered tools, and interactive software.
 
-Currently working on VR applications using Unity and C# for
-Meta Quest/Oculus platforms, including a VR-based training
-simulation for Northern Coalfields Limited (NCL).
+My current work focuses on **VR application development using Unity and C#**, while my personal projects explore **AI agents, automation, persistent memory, intelligent workflows, and machine learning systems**.
 
-I enjoy building practical software systems that combine
-backend engineering, AI, automation, intelligent workflows,
-and real-world applications.
+I enjoy taking an idea from concept to a working application, with a focus on clean architecture, practical functionality, and reliable software.
+
+```text id="about-terminal"
+Developer Profile
+├── Backend Engineering
+├── RESTful API Development
+├── AI Agents & Automation
+├── Database-driven Applications
+├── Full-Stack Development
+├── VR Application Development
+└── Machine Learning Systems
 ```
-
-* 🎓 MCA graduate with a strong foundation in Computer Science
-* 💼 Currently working as a **Software Developer at Experience Zone**
-* 🥽 Developing VR applications for **Meta Quest/Oculus**
-* 🤖 Building AI-powered applications and automation systems
-* ⚙️ Interested in backend engineering, APIs, databases and system design
-* 🌐 Experience with full-stack web applications
-* 🧠 Background in machine learning and recommendation systems
-* 🇮🇳 Based in India
 
 ---
 
 # 🚀 Currently Working On
 
-## 🥽 VR Training Applications
+### 🥽 VR Training & Simulation
 
-Currently developing VR applications and training simulations using **Unity and C#** for Meta Quest/Oculus platforms.
+At **Experience Zone**, I'm developing VR applications for Meta Quest/Oculus using Unity and C#.
 
-### Current Work Includes
+One of the major projects I'm working on is a **VR-based training simulation for Northern Coalfields Limited (NCL)** that simulates mining traffic operations for safety training.
 
-* Developing VR applications and interactive experiences
-* Building a VR-based training simulation for **Northern Coalfields Limited (NCL)**
-* Simulating mining traffic operations for safety training
+### What I'm Working On
+
+* Developing and deploying VR applications for Meta Quest/Oculus
+* Building interactive VR training simulations
+* Developing mining traffic simulation scenarios for NCL
 * Writing and debugging C# scripts in Unity
 * Implementing VR interactions and application logic
 * Building, testing and packaging Unity projects into APKs
 * Troubleshooting and refining application functionality
-* Collaborating with the development team to improve application features
+* Collaborating with the development team during development and testing
 
 ---
 
@@ -86,7 +145,7 @@ Currently developing VR applications and training simulations using **Unity and 
 
 ### 🥽 VR & Application Development
 
-`Unity` `C# Scripting` `Meta Quest` `Oculus` `VR Interactions` `APK Development`
+`Unity` `C# Scripting` `Meta Quest` `Oculus` `.NET`
 
 ### 🤖 Machine Learning
 
@@ -104,67 +163,103 @@ Currently developing VR applications and training simulations using **Unity and 
 
 ### 🛠️ Tools & Platforms
 
-`Git` `AWS` `Visual Studio` `.NET` `Jupyter` `Google Colab`
+`Git` `AWS` `Visual Studio` `Jupyter` `Google Colab`
 
 ---
 
 # 💼 Professional Experience
 
-## Software Developer — Experience Zone
+## Software Developer · Experience Zone
 
-📍 Ranchi, India
-📅 **March 2026 – Present**
+**March 2026 – Present** · Ranchi, India
 
 * Develop and deploy VR applications for Meta Quest/Oculus using Unity and C#.
-* Developing a VR-based training simulation for **Northern Coalfields Limited (NCL)** to simulate mining traffic operations for safety training.
+* Developing a VR-based training simulation for **Northern Coalfields Limited (NCL)** simulating mining traffic operations for safety training.
 * Write and debug C# scripts in Unity for VR interactions, application logic and features.
 * Build, test and package Unity projects into APKs for Meta Quest.
 * Collaborate with the development team to troubleshoot and refine application functionality.
 
 ---
 
-# ⭐ Featured Projects
+# 🌟 Featured Projects
 
 ## 🤖 AERIS — Personal AI Operating System
 
-> **A modular, voice-first Personal AI Operating System that combines AI reasoning with desktop automation, intelligent task execution, persistent memory, and system awareness.**
+> **A modular, voice-first Personal AI Operating System built to combine AI reasoning with desktop automation, intelligent task execution, persistent memory, and system awareness.**
 
-AERIS is designed as an AI-driven desktop system capable of reasoning about tasks, discovering and using tools, interacting with the environment, and executing actions through controlled workflows.
+AERIS explores what happens when an AI system moves beyond conversation and becomes an execution layer capable of understanding tasks, discovering tools, interacting with the environment, and performing controlled actions.
 
-### 🔥 Key Features
+### ⚡ Core Capabilities
 
-* 🧠 **AI Reasoning & Agent Execution**
-  Modular tool-driven agent framework with dynamic action discovery and controlled execution.
+**🧠 AI Reasoning & Agent Execution**
 
-* ⚙️ **Observe → Act → Verify → Recover**
-  Task orchestration approach designed for reliable execution and recovery.
+* Modular, tool-driven agent execution framework
+* Dynamic action discovery
+* Permission and confirmation workflows
+* Controlled tool execution
+* Audit logging and undo capabilities
 
-* 🔐 **Permissions & Safety Controls**
-  Confirmation workflows, capability controls, audit logging and undo capabilities.
+**🔄 Observe → Act → Verify → Recover**
 
-* 🖥️ **Desktop Automation**
-  Browser control, file management, reminders and proactive task execution.
+* Task orchestration built around observation, action, verification and recovery
+* Recovery workflows for failed or interrupted actions
+* Runtime-aware execution
 
-* 🧠 **Persistent AI Memory**
-  SQLite-based local memory with full-text search for context-aware interactions and long-term information management.
+**🖥️ Desktop Automation**
 
-* 👁️ **Computer Vision & Screen Understanding**
-  OCR, screen understanding, environmental awareness and presence intelligence.
+* Browser control
+* File management
+* Reminders
+* Workflow execution
+* Proactive task execution
+* Routine detection
 
-* 🎙️ **Voice-First Interaction**
-  Voice interaction with custom wake-word detection.
+**🧠 Persistent AI Memory**
 
-* ⏰ **Intelligent Automation**
-  Workflow execution, scheduling and routine detection.
+* Local persistent memory using SQLite
+* Full-text search for knowledge retrieval
+* Context-aware interactions
+* Long-term information management
 
-* 🎛️ **PyQt6 Command Center**
-  Real-time system telemetry, voice interaction, task monitoring and AI visualization.
+**👁️ Computer Vision & Environment Awareness**
 
-* 🛡️ **Security & Reliability**
-  Encrypted secrets management, rate limiting, isolated code execution, recovery workflows and audit trails.
+* Screen understanding
+* OCR
+* Environmental awareness
+* Presence intelligence
+* Visual context processing
 
-* 🧪 **Automated Testing**
-  100+ tests covering core AI, automation, memory, security and runtime components.
+**🎙️ Voice-first Interaction**
+
+* Voice interaction
+* Custom wake-word detection
+* Natural task execution through voice commands
+
+**🎛️ PyQt6 Command Center**
+
+* Real-time system telemetry
+* Task monitoring
+* Voice interaction
+* AI visualization
+* Centralized system control
+
+**🔐 Security & Reliability**
+
+* Encrypted secrets management
+* Capability controls
+* Rate limiting
+* Isolated code execution
+* Recovery workflows
+* Audit trails
+
+**🧪 Testing**
+
+* 100+ automated tests
+* AI functionality testing
+* Automation testing
+* Memory testing
+* Security testing
+* Runtime testing
 
 ### 🛠️ Tech Stack
 
@@ -176,7 +271,7 @@ AERIS is designed as an AI-driven desktop system capable of reasoning about task
 
 ## 📚 Hybrid Book Recommendation System
 
-> **An end-to-end recommendation platform combining content-based and collaborative filtering for personalized book recommendations.**
+> **An end-to-end recommendation platform combining content-based and collaborative filtering to generate personalized book recommendations.**
 
 ### ✨ Highlights
 
@@ -203,10 +298,10 @@ AERIS is designed as an AI-driven desktop system capable of reasoning about task
 ### ✨ Highlights
 
 * Developed a complete booking workflow covering multiple travel services.
-* Designed and normalized a MySQL database for users, bookings and inventory.
+* Designed and normalized a MySQL schema for users, bookings and inventory.
 * Optimized database queries for application performance.
-* Built secure backend authentication and booking logic.
-* Developed a responsive frontend for desktop and mobile users.
+* Implemented secure backend authentication and booking logic.
+* Built a responsive frontend for different screen sizes.
 * Integrated payment processing into the booking workflow.
 * Connected frontend components with backend services for end-to-end functionality.
 
@@ -218,43 +313,41 @@ AERIS is designed as an AI-driven desktop system capable of reasoning about task
 
 ## 🌐 Developer Portfolio
 
-> **Personal portfolio showcasing projects, technical experience and development journey.**
+> **A personal portfolio showcasing projects, technical experience and my development journey.**
 
-🔗 **[View Portfolio →](https://bhardwaj-0001.github.io/my-portfolio/)**
+🔗 **[Visit Portfolio →](https://bhardwaj-0001.github.io/my-portfolio/)**
 
 ---
 
 # 🧠 Core Computer Science
 
-| Area                            | Focus                          |
-| ------------------------------- | ------------------------------ |
-| 🧩 Data Structures & Algorithms | Problem Solving                |
-| 🏗️ OOP                         | Object-Oriented Programming    |
-| 🗄️ DBMS                        | Database Management            |
-| 🌐 Computer Networks            | Networking Fundamentals        |
-| ⚙️ Backend Engineering          | APIs & Server-side Development |
-| 🏛️ Software Development        | Application Architecture       |
+| Area                            | Focus                       |
+| ------------------------------- | --------------------------- |
+| 🧩 Data Structures & Algorithms | Problem Solving             |
+| 🏗️ OOP                         | Object-Oriented Programming |
+| 🗄️ DBMS                        | Database Management         |
+| 🌐 Computer Networks            | Networking Fundamentals     |
+| ⚙️ Software Engineering         | Application Development     |
+| 🏛️ System Design               | Architecture & Scalability  |
 
 ---
 
 # 🎓 Education
 
-### 🎓 Master of Computer Applications — MCA
+### Master of Computer Applications · MCA
 
 **Galgotias University, Greater Noida**
 
-📅 September 2023 – July 2025
+`September 2023 – July 2025`
 
 ---
 
 # 📜 Certifications
 
-| Certification                        | Organization                 | Date           |
-| ------------------------------------ | ---------------------------- | -------------- |
-| Introduction to Big Data             | NPTEL IIT/IISc               | October 2024   |
-| Web Full Stack Development Intern    | AICTE Eduskills              | December 2024  |
-| Java Full Stack Developer Intern     | AICTE Eduskills              | September 2024 |
-| Android App Development Using Kotlin | EduPyramids, SINE IIT Bombay | June 2024      |
+* **Introduction to Big Data** — NPTEL IIT/IISc · October 2024
+* **Web Full Stack Development Intern** — AICTE Eduskills · December 2024
+* **Java Full Stack Developer Intern** — AICTE Eduskills · September 2024
+* **Android App Development Using Kotlin** — EduPyramids, SINE IIT Bombay · June 2024
 
 ---
 
@@ -279,11 +372,11 @@ AERIS is designed as an AI-driven desktop system capable of reasoning about task
 
 ---
 
-# 💡 What I'm Interested In
+# 🎯 What I'm Interested In
 
-```text id="interest"
-Backend Engineering       ████████████████████
+```text id="interest-bars"
 AI & Intelligent Systems  ████████████████████
+Backend Engineering       ████████████████████
 Automation                ██████████████████
 VR Development            █████████████████
 Full-Stack Development    ████████████████
@@ -291,27 +384,27 @@ Machine Learning          ███████████████
 System Design             ███████████████
 ```
 
-I'm particularly interested in building software where **backend engineering, AI, automation and real-world applications** come together.
-
----
-
-# 🔭 Areas I'm Exploring
+### Areas I enjoy exploring
 
 * 🤖 AI-powered applications
-* 🧠 Tool-driven AI agents
+* 🧠 AI agents and tool-driven systems
 * ⚙️ Intelligent desktop automation
-* 🔌 Backend systems & REST APIs
+* 🔌 Backend systems and REST APIs
 * 🗄️ Database architecture
-* 🥽 VR applications & simulations
-* 🌐 Full-stack applications
-* 🧩 System design & software architecture
+* 🥽 VR applications and simulations
+* 🌐 Full-stack web applications
 * 📊 Machine learning systems
+* 🏗️ Software architecture and system design
 
 ---
 
-# 📫 Let's Connect
+# 📫 Contact
 
 <p align="center">
+
+<a href="mailto:bhardwajujjawal07@gmail.com">
+<img src="https://img.shields.io/badge/Email-bhardwajujjawal07-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/ujjawalbhardwaj-in">
 <img src="https://img.shields.io/badge/LinkedIn-Ujjawal%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -321,18 +414,16 @@ I'm particularly interested in building software where **backend engineering, AI
 <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="mailto:bhardwajujjawal07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 🚀 Building software. Exploring AI. Creating real-world experiences.
+### 🚀 Building software, exploring AI, and turning ideas into working systems.
 
 **Thanks for visiting my profile!**
 
-</p>
+⭐ Feel free to explore my repositories and projects.
+
+</div>
