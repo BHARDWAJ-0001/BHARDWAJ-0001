@@ -3,7 +3,7 @@
 <!-- Blue-neon profile header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06101F,45:063B78,100:00CFFF&height=190&section=header&text=UJJAWAL%20BHARDWAJ&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%7C%20BACKEND%20%7C%20VR&descAlignY=59&descSize=13&animation=fadeIn" />
 
-<img src="assets/github-avatar.png" width="155" alt="ujjawal-profile" />
+<img src="ujjawal-profile.png" width="155" alt="Ujjawal Bhardwaj Profile" />
 
 ### `Building digital things that matter.`
 
