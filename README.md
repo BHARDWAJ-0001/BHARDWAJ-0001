@@ -354,11 +354,15 @@ A personal space for projects, technical experience and development work.
 
 ### `01 / CONTRIBUTION ACTIVITY`
 
-<img
-  src="https://raw.githubusercontent.com/BHARDWAJ-0001/BHARDWAJ-0001/output/github-contribution-grid-snake.svg"
-  alt="GitHub contribution activity visualization"
-  width="100%"
-/>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/BHARDWAJ-0001/BHARDWAJ-0001/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="Neon cyan GitHub contribution snake"
+  />
+</p>
+
 
 <sub>VISUALIZING CONTRIBUTION HISTORY · BHARDWAJ-0001</sub>
 
