@@ -14,21 +14,21 @@
 <div align="center">
 
   <a href="https://bhardwaj-0001.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/✦_PORTFOLIO-0B1628?style=for-the-badge&logo=firefoxbrowser&logoColor=00E5FF&labelColor=0B1628" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=firefox&logoColor=00E5FF" alt="Portfolio" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/ujjawalbhardwaj-in">
-    <img src="https://img.shields.io/badge/LINKEDIN-0B1628?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0B1628" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:bhardwajujjawal07@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-0B1628?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0B1628" alt="Email" />
+    <img src="https://img.shields.io/badge/GMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>&nbsp;
   <a href="https://github.com/BHARDWAJ-0001">
-    <img src="https://img.shields.io/badge/GITHUB-0B1628?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0B1628" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=BHARDWAJ-0001&label=VISITORS&style=for-the-badge&color=00CFFF&labelColor=0B1628" alt="Profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=BHARDWAJ-0001&label=PROFILE%20VIEWS&style=flat-square&color=00E5FF&labelColor=0B1220" alt="Profile views" />
 
 </div>
 ```
