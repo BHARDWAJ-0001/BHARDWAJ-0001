@@ -316,17 +316,14 @@ A personal space for projects, technical experience and development work.
 
 <div align="center">
 
-<h2>⚡ CONTRIBUTION MATRIX</h2>
-<p><code>NEURAL CORE // ACTIVITY VISUALIZATION</code></p>
-
 <img
-  src="https://raw.githubusercontent.com/BHARDWAJ-0001/BHARDWAJ-0001/output/neon-snake.gif"
-  alt="Neon Contribution Snake"
-  width="100%"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=42D7FF&center=true&vCenter=true&width=700&height=55&lines=%24+whoami+%E2%86%92+BHARDWAJ-0001;%24+building+AI-powered+systems...;%24+engineering+backend+solutions...;%24+automating+the+ordinary."
+  alt="Animated developer terminal"
 />
 
 <p>
-  <sub>REAL CONTRIBUTIONS · NEON TRAIL · CONTINUOUS EVOLUTION</sub>
+  <code>● SYSTEM ONLINE</code>
+  &nbsp; <code>AI / BACKEND / AUTOMATION</code>
 </p>
 
 </div>
