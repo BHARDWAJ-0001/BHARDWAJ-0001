@@ -3,7 +3,7 @@
 <!-- Cyber-blue neon identity -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050B16,35:082B57,70:075B9A,100:00D9FF&height=205&section=header&text=UJJAWAL%20BHARDWAJ&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%20%E2%80%A2%20BACKEND%20%E2%80%A2%20VR&descAlignY=59&descSize=13&animation=fadeIn" alt="Ujjawal Bhardwaj — blue neon developer banner" />
 
-<img src="ujjawal-profile.png" width="145" alt="Ujjawal Bhardwaj profile image" />
+<img src="ujjawal-profile.png" width="1045" alt="Ujjawal Bhardwaj profile image" />
 
 ### `Building digital things that matter.`
 
