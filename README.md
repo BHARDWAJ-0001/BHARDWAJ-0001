@@ -12,13 +12,25 @@
 
 <div align="center">
 
-<a href="https://bhardwaj-0001.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=firefoxbrowser&logoColor=42D7FF" alt="Portfolio" /></a>&nbsp;<a href="https://linkedin.com/in/ujjawalbhardwaj-in"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;<a href="mailto:bhardwajujjawal07@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>&nbsp;<a href="https://github.com/BHARDWAJ-0001"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+  <a href="https://bhardwaj-0001.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=firefoxbrowser&logoColor=42D7FF" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/ujjawal-bhardwaj-in/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:bhardwajujjawal07@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
+  </a>&nbsp;
+  <a href="https://github.com/BHARDWAJ-0001">
+    <img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=BHARDWAJ-0001&label=PROFILE%20VIEWS&style=flat-square&color=42D7FF" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=BHARDWAJ-0001&label=PROFILE%20VIEWS&style=flat-square&color=42D7FF&labelColor=0B1220" alt="Profile views" />
 
 </div>
+
 
 ## `01 / DEVELOPER PROFILE`  ·  `IDENTITY / 001`
 
