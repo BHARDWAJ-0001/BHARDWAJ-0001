@@ -313,9 +313,6 @@ A personal space for projects, technical experience and development work.
 
 ## `08 / CONTRIBUTION MATRIX`  ·  `ACTIVITY VISUALIZATION`
 
----
-
-## `08 / CONTRIBUTION MATRIX` · `ENGINEERING ACTIVITY`
 
 <div align="center">
 
