@@ -3,7 +3,7 @@
 <!-- NEURAL CORE custom visual identity -->
 <img width="100%" src="assets/neural-core-header.jpg" alt="NEURAL CORE — Ujjawal Bhardwaj, AI, Backend and VR developer banner" />
 
-<img src="assets/github-avatar.png" width="145" alt="Ujjawal Bhardwaj neon profile avatar" />
+<img src="assets/ujjawal-profile.png" width="145" alt="Ujjawal Bhardwaj neon profile avatar" />
 
 ### `Building digital things that matter.`
 
