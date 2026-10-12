@@ -320,8 +320,8 @@ A personal space for projects, technical experience and development work.
 <p><code>NEURAL CORE // ACTIVITY VISUALIZATION</code></p>
 
 <img
-  src="https://raw.githubusercontent.com/BHARDWAJ-0001/BHARDWAJ-0001/output/github-contribution-grid-snake.svg"
-  alt="Ujjawal Bhardwaj Neon Contribution Snake"
+  src="https://raw.githubusercontent.com/BHARDWAJ-0001/BHARDWAJ-0001/output/neon-snake.gif"
+  alt="Neon Contribution Snake"
   width="100%"
 />
 
