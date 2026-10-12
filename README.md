@@ -9,16 +9,26 @@
 
 **Software Developer** · Backend Engineering · AI & Automation · VR Development
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-071426?style=for-the-badge&logo=firefox&logoColor=42D7FF)](https://bhardwaj-0001.github.io/my-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-071426?style=for-the-badge&logo=linkedin&logoColor=42D7FF)](https://linkedin.com/in/ujjawalbhardwaj-in)
-[![Email](https://img.shields.io/badge/EMAIL-071426?style=for-the-badge&logo=gmail&logoColor=42D7FF)](mailto:bhardwajujjawal07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-BHARDWAJ--0001-071426?style=for-the-badge&logo=github&logoColor=42D7FF)](https://github.com/BHARDWAJ-0001)
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=BHARDWAJ-0001&label=PROFILE%20VIEWS&style=flat-square&color=00CFFF" alt="Profile views" />
+  <a href="https://bhardwaj-0001.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/✦_EXPLORE_PORTFOLIO-071426?style=for-the-badge&logoColor=42D7FF" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ujjawalbhardwaj-in">
+    <img src="https://img.shields.io/badge/LINKEDIN-071426?style=for-the-badge&logo=linkedin&logoColor=42D7FF" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bhardwajujjawal07@gmail.com">
+    <img src="https://img.shields.io/badge/LET'S_CONNECT-071426?style=for-the-badge&logo=gmail&logoColor=42D7FF" alt="Email" />
+  </a>
+  <a href="https://github.com/BHARDWAJ-0001">
+    <img src="https://img.shields.io/badge/GITHUB-BHARDWAJ--0001-071426?style=for-the-badge&logo=github&logoColor=42D7FF" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=BHARDWAJ-0001&label=PROFILE%20VIEWS&color=42D7FF&style=for-the-badge" alt="Profile views" />
 
 </div>
-
----
 
 ## `01 / DEVELOPER PROFILE`  ·  `IDENTITY / 001`
 
