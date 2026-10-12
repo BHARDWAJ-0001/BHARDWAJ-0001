@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- NEURAL CORE custom visual identity -->
-<img width="100%" src="neural-core-header.jpg" alt="NEURAL CORE — Ujjawal Bhardwaj, AI, Backend and VR developer banner" />
+<!-- Cyber-blue neon identity -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050B16,35:082B57,70:075B9A,100:00D9FF&height=205&section=header&text=UJJAWAL%20BHARDWAJ&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%20%E2%80%A2%20BACKEND%20%E2%80%A2%20VR&descAlignY=59&descSize=13&animation=fadeIn" alt="Ujjawal Bhardwaj — blue neon developer banner" />
 
-<img src="ujjawal-profile.png" width="145" alt="Ujjawal Bhardwaj neon profile avatar" />
+<img src="ujjawal-profile.png" width="145" alt="Ujjawal Bhardwaj profile image" />
 
 ### `Building digital things that matter.`
 
@@ -20,7 +20,7 @@
 
 ---
 
-## `01 / NEURAL CORE // DEVELOPER PROFILE`
+## `01 / DEVELOPER PROFILE`
 
 ```text
 ┌─ UJJAWAL@DEV ───────────────────────────────────────┐
@@ -45,7 +45,7 @@ I'm a Software Developer with an MCA background and experience building backend 
 
 ---
 
-## `02 / ACTIVE MISSION`
+## `02 / CURRENT MISSION`
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Developing VR applications for Meta Quest/Oculus using Unity and C#.
 
 ---
 
-## `03 / FLAGSHIP SYSTEM`
+## `03 / FLAGSHIP PROJECT`
 
 ### 🤖 AERIS — Personal AI Operating System
 
