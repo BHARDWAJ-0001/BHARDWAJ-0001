@@ -1,5 +1,5 @@
 
-name: Generate Cyberpunk Contribution Snake
+name: Generate Neon Contribution Snake
 
 on:
   schedule:
@@ -15,16 +15,14 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Generate Neon Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: BHARDWAJ-0001
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2300D9FF&color_dots=%23050B16,%23082B57,%23075B9A,%2300AEEF,%2300D9FF
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2342D7FF&color_dots=%23050B16,%23082B57,%23075B9A,%2300AEEF,%2342D7FF
+            dist/neon-snake.gif?color_snake=%2300E5FF&color_dots=%23070B16,%230B1D3A,%23005B96,%2300AEEF,%237B2CFF&color_background=%23070B16
 
       - name: Publish Animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
