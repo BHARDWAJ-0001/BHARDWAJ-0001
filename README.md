@@ -315,7 +315,13 @@ A personal space for projects, technical experience and development work.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BHARDWAJ-0001/BHARDWAJ-0001/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity snake" />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BHARDWAJ-0001/BHARDWAJ-0001/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+
+</div>
+
 
 </div>
 
