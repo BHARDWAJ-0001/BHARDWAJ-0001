@@ -313,28 +313,66 @@ A personal space for projects, technical experience and development work.
 
 ## `08 / CONTRIBUTION MATRIX`  ·  `ACTIVITY VISUALIZATION`
 
+---
+
+## `08 / CONTRIBUTION MATRIX` · `ENGINEERING ACTIVITY`
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=42D7FF&center=true&vCenter=true&width=700&height=55&lines=%24+whoami+%E2%86%92+BHARDWAJ-0001;%24+building+AI-powered+systems...;%24+engineering+backend+solutions...;%24+automating+the+ordinary."
-  alt="Animated developer terminal"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1000&color=42D7FF&center=true&vCenter=true&width=650&height=45&lines=%24+activity.scan+--github;%24+analyzing+contribution+history...;%24+consistency+over+intensity.;%24+build.+commit.+repeat."
+  alt="Animated engineering activity terminal"
 />
 
-<p>
-  <code>● SYSTEM ONLINE</code>
-  &nbsp; <code>AI / BACKEND / AUTOMATION</code>
-</p>
+<table>
+<tr>
+<td align="center">
 
+`SYSTEM STATUS`
+
+**🟢 ONLINE**
+
+</td>
+<td align="center">
+
+`ACTIVITY SOURCE`
+
+**GITHUB**
+
+</td>
+<td align="center">
+
+`MODE`
+
+**CONTINUOUS BUILD**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### `01 / CONTRIBUTION ACTIVITY`
 
 <img
   src="https://raw.githubusercontent.com/BHARDWAJ-0001/BHARDWAJ-0001/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
+  alt="GitHub contribution activity visualization"
   width="100%"
 />
 
+<sub>VISUALIZING CONTRIBUTION HISTORY · BHARDWAJ-0001</sub>
+
+<br/>
+
+---
+
+`CODE IS THE OUTPUT. CONSISTENCY IS THE PROCESS.`
+
+<sub>ENGINEERED WITH PRECISION · POWERED BY CURIOSITY</sub>
 
 </div>
+
+---
 
 
 
