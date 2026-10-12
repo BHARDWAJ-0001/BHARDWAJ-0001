@@ -2,9 +2,9 @@
 name: Generate Custom Contribution Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "17 0 * * *"
-  workflow_dispatch:
   push:
     branches:
       - main
@@ -12,12 +12,16 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout main
         uses: actions/checkout@v4
 
       - name: Setup Node.js
@@ -25,16 +29,23 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Generate custom animated snake
+      - name: Generate SVG
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: BHARDWAJ-0001
         run: node scripts/generate-snake.mjs
 
-      - name: Publish SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Verify generated files
+        run: |
+          test -s dist/github-contribution-grid-snake.svg
+          test -s dist/github-contribution-grid-snake-dark.svg
+          echo "Custom SVG files generated successfully"
+          ls -lh dist/
+
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
