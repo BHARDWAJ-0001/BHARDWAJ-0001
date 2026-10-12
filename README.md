@@ -12,23 +12,29 @@
 <div align="center">
 
   <a href="https://bhardwaj-0001.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/✦_EXPLORE_PORTFOLIO-071426?style=for-the-badge&logoColor=42D7FF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0B1220?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=0B1220" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/ujjawalbhardwaj-in">
-    <img src="https://img.shields.io/badge/LINKEDIN-071426?style=for-the-badge&logo=linkedin&logoColor=42D7FF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0B1220" alt="LinkedIn" />
   </a>
+
+  <br/>
+
   <a href="mailto:bhardwajujjawal07@gmail.com">
-    <img src="https://img.shields.io/badge/LET'S_CONNECT-071426?style=for-the-badge&logo=gmail&logoColor=42D7FF" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-0B1220?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0B1220" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/BHARDWAJ-0001">
-    <img src="https://img.shields.io/badge/GITHUB-BHARDWAJ--0001-071426?style=for-the-badge&logo=github&logoColor=42D7FF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-BHARDWAJ--0001-0B1220?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0B1220" alt="GitHub" />
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=BHARDWAJ-0001&label=PROFILE%20VIEWS&color=42D7FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=BHARDWAJ-0001&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
+```
 
 ## `01 / DEVELOPER PROFILE`  ·  `IDENTITY / 001`
 
