@@ -313,17 +313,24 @@ A personal space for projects, technical experience and development work.
 
 ## `08 / CONTRIBUTION MATRIX`  ·  `ACTIVITY VISUALIZATION`
 
-<div align="center">
-
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BHARDWAJ-0001/BHARDWAJ-0001/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+<h2>⚡ CONTRIBUTION MATRIX</h2>
+<p><code>NEURAL CORE // ACTIVITY VISUALIZATION</code></p>
+
+<img
+  src="https://raw.githubusercontent.com/BHARDWAJ-0001/BHARDWAJ-0001/output/github-contribution-grid-snake.svg"
+  alt="Ujjawal Bhardwaj Neon Contribution Snake"
+  width="100%"
+/>
+
+<p>
+  <sub>REAL CONTRIBUTIONS · NEON TRAIL · CONTINUOUS EVOLUTION</sub>
+</p>
 
 </div>
 
-
-</div>
 
 <sub>Contribution snake animation requires a GitHub Actions workflow that generates and publishes `output/github-contribution-grid-snake.svg`.</sub>
 
