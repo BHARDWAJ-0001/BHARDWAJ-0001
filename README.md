@@ -326,10 +326,13 @@ A personal space for projects, technical experience and development work.
   &nbsp; <code>AI / BACKEND / AUTOMATION</code>
 </p>
 
+
 <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  src="https://raw.githubusercontent.com/BHARDWAJ-0001/BHARDWAJ-0001/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"
+/>
+
 
 </div>
 
